@@ -6,11 +6,11 @@
 
 	let cardType = "main";
 	let wordInfo = {
-		word: "Word",
-		phonetic: "Phonetics",
+		word: "Your Word",
+		phonetic: "Phonetic",
 		pos: "Part of Speech",
-		meaning: "Meaning",
-		example: "Example",
+		meaning: "Here you will see the meaning of the word.",
+		example: "Here, if present, you will see an example usage of the word.",
 	};
 
 	const dictAPI = "https://api.dictionaryapi.dev/api/v2/entries/en/"
